@@ -1,4 +1,4 @@
-FROM nginx:1.25.3  # use a specific version, not 'stable'
+FROM nginx:1.25.3 
 
 LABEL maintainer="blerona019@gmail.com"
 
